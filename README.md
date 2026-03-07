@@ -12,7 +12,7 @@ Kamu diminta membantu sebagai investigator eksternal untuk memverifikasi kebocor
 
 Di dalam ledger itulah terdapat **kunci** yang dicari.
 
-Ini adalah link portal: [Lantern Scholarship](lantern-scholarship.netlify.app)
+Ini adalah link portal: [[Lantern Scholarship](https://lantern-scholarship.nassjourney.workers.dev/)
 
 ---
 
