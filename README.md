@@ -26,3 +26,5 @@ Temukan **flag** dengan format: `GDGOC{...}`
 - Tidak perlu brute force / spam request.
 - Browser + DevTools (Network tab) sudah cukup.
 - Fokus hanya pada target yang disediakan.
+
+Submit jawaban ke [Link ini!](https://forms.gle/uD36PVnyxRTc9cvX7)
